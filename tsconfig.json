@@ -1,0 +1,19 @@
+{
+     "_version": "1.0.0",
+     "compilerOptions": {
+      "outDir": "./compiled",
+      "allowJs": true,
+      "target": "es6",
+      "typeRoots": ["./node_modules/@types"],
+      "module": "commonjs",
+      "lib": ["dom", "ES6"]
+    },
+    "include": [
+      "./src/*"
+    ],
+    "exclude": [
+      "node_modules",
+      "webpack.config.js",
+      "jest.config.js"
+    ],
+}

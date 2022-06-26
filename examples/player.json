@@ -1,0 +1,76 @@
+{
+    "authCompany": {
+        "companyId": 1961308,
+        "company": "Gentlemen Incorporated",
+        "moderatorSign": false,
+        "hqImage": "",
+        "money": 56904,
+        "moneyExchangeLimit": 10000,
+        "simBoosts": 170,
+        "popupNotifications": {
+            "help": true,
+            "sale": true,
+            "social": true,
+            "other": true,
+            "contract": true
+        },
+        "productionModifier": 0,
+        "salesModifier": 4,
+        "countryCodeIsoUserSet": "GB",
+        "rank": 15803,
+        "extraExecutiveSlots": 0,
+        "extraBuildingSlots": 3,
+        "displayCaseSlots": 1,
+        "logo": "https://d1fxy698ilbz6u.cloudfront.net/logo/bad6cda6945bd028403242b05bec2b2b45306392.png",
+        "startingPackPurchased": false,
+        "maxTags": 1,
+        "courseId": null,
+        "showOnlineIndicator": true,
+        "testCategory": 0,
+        "realmId": 0
+    },
+    "authUser": {
+        "playerId": 784765,
+        "isModerator": false,
+        "auditAccess": false,
+        "newspaperEditor": false,
+        "isAdmin": false,
+        "supporterPurchased": false,
+        "supporter": false,
+        "countryCodeIso": "GB",
+        "email": "connor.barthelmie@gmail.com",
+        "bouncingEmail": false,
+        "language": "en",
+        "age18": true,
+        "communicationRestricted": false
+    },
+    "levelInfo": {
+        "ratingCode": "BB+",
+        "levelName": "Limited company",
+        "level": 19,
+        "inTutorial": false,
+        "acceleration": {
+            "multiplier": 1,
+            "until": null
+        },
+        "experience": 3297,
+        "experienceToNextLevel": 68000,
+        "maxBuildings": 8,
+        "capabilities": {
+            "research": true,
+            "scrape": true,
+            "bonds": true,
+            "governmentOrders": false,
+            "executives": true,
+            "hqUpdates": true
+        },
+        "timeLimit": 172800
+    },
+    "temporals": {
+        "sale": "+15%",
+        "contest": {},
+        "economyState": 0
+    },
+    "encKey": null,
+    "courses": []
+}

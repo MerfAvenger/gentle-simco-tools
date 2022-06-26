@@ -1,0 +1,266 @@
+[
+    {
+        "id": 13655945,
+        "kind": "M",
+        "position": "6",
+        "image": "images/landscape/mine-lvl2.png",
+        "category": "production",
+        "name": "Mine",
+        "cost": 24150,
+        "size": 5,
+        "robotsSpecialization": {
+            "name": "Minerals",
+            "image": "images/resources/minerals.png",
+            "db_letter": 14,
+            "transportation": 1,
+            "retailable": false,
+            "research": false
+        },
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T16:18:14.103574+00:00",
+            "duration": 32462,
+            "resource": {
+                "amount": 4449,
+                "quality": 1,
+                "unitCost": 7.11959836548493,
+                "kind": 14,
+                "name": "Minerals",
+                "image": "images/resources/minerals.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13536243,
+        "kind": "E",
+        "position": "1",
+        "image": "images/landscape/powerplant-lvl1.png",
+        "category": "production",
+        "name": "Power plant",
+        "cost": 51750,
+        "size": 3,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T12:25:01.873586+00:00",
+            "duration": 46572,
+            "resource": {
+                "amount": 61696,
+                "quality": 1,
+                "unitCost": 0.18445714285714285,
+                "kind": 1,
+                "name": "Power",
+                "image": "images/resources/power.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13010741,
+        "kind": "M",
+        "position": "7",
+        "image": "images/landscape/mine-lvl1.png",
+        "category": "production",
+        "name": "Mine",
+        "cost": 24150,
+        "size": 4,
+        "robotsSpecialization": {
+            "name": "Gold ore",
+            "image": "images/resources/gold-ore.png",
+            "db_letter": 68,
+            "transportation": 10,
+            "retailable": false,
+            "research": false
+        },
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T12:23:43.427813+00:00",
+            "duration": 46694,
+            "resource": {
+                "amount": 1673,
+                "quality": 1,
+                "unitCost": 23.051147577189386,
+                "kind": 68,
+                "name": "Gold ore",
+                "image": "images/resources/gold-ore.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 12779129,
+        "kind": "E",
+        "position": "4",
+        "image": "images/landscape/powerplant-lvl1.png",
+        "category": "production",
+        "name": "Power plant",
+        "cost": 51750,
+        "size": 4,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T02:31:56.082066+00:00",
+            "duration": 82408,
+            "resource": {
+                "amount": 83000,
+                "quality": 1,
+                "unitCost": 0.1844578284071918,
+                "kind": 1,
+                "name": "Power",
+                "image": "images/resources/power.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13630148,
+        "kind": "M",
+        "position": "0",
+        "image": "images/landscape/mine-lvl1.png",
+        "category": "production",
+        "name": "Mine",
+        "cost": 24150,
+        "size": 4,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T02:31:23.075313+00:00",
+            "duration": 82346,
+            "resource": {
+                "amount": 2874,
+                "quality": 1,
+                "unitCost": 6.811567355546601,
+                "kind": 15,
+                "name": "Bauxite",
+                "image": "images/resources/bauxite.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13154661,
+        "kind": "E",
+        "position": "B1",
+        "image": "images/landscape/powerplant-lvl1.png",
+        "category": "production",
+        "name": "Power plant",
+        "cost": 51750,
+        "size": 3,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-09T18:03:31.693310+00:00",
+            "duration": 172799,
+            "resource": {
+                "amount": 2353,
+                "quality": 1,
+                "unitCost": 0.19382372037658263,
+                "kind": 1,
+                "name": "Power",
+                "image": "images/resources/power.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13355573,
+        "kind": "W",
+        "position": "2",
+        "image": "images/landscape/reservoir-lvl1.png",
+        "category": "production",
+        "name": "Water reservoir",
+        "cost": 20700,
+        "size": 2,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-10T23:02:42.942534+00:00",
+            "duration": 70506,
+            "resource": {
+                "amount": 2981,
+                "quality": 0,
+                "unitCost": 0.2941415865384616,
+                "kind": 2,
+                "name": "Water",
+                "image": "images/resources/water.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13582827,
+        "kind": "M",
+        "position": "5",
+        "image": "images/landscape/mine-lvl1.png",
+        "category": "production",
+        "name": "Mine",
+        "cost": 24150,
+        "size": 3,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T02:22:23.478585+00:00",
+            "duration": 82903,
+            "resource": {
+                "amount": 3986,
+                "quality": 1,
+                "unitCost": 3.7948854764016637,
+                "kind": 42,
+                "name": "Iron ore",
+                "image": "images/resources/iron-ore.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13777966,
+        "kind": "Y",
+        "position": "3",
+        "image": "images/landscape/factory-lvl1.png",
+        "category": "production",
+        "name": "Factory",
+        "cost": 48300,
+        "size": 2,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T12:35:57.659484+00:00",
+            "duration": 21556,
+            "resource": {
+                "amount": 377,
+                "quality": 1,
+                "unitCost": 10.203640960751944,
+                "kind": 17,
+                "name": "Chemicals",
+                "image": "images/resources/chemicals.png"
+            },
+            "canFetch": false
+        }
+    },
+    {
+        "id": 13712149,
+        "kind": "M",
+        "position": "B0",
+        "image": "images/landscape/mine-lvl2.png",
+        "category": "production",
+        "name": "Mine",
+        "cost": 24150,
+        "size": 7,
+        "robotsSpecialization": null,
+        "pinnedResource": null,
+        "busy": {
+            "started": "2022-06-11T12:24:15.767747+00:00",
+            "duration": 46840,
+            "resource": {
+                "amount": 6596,
+                "quality": 1,
+                "unitCost": 7.148379414573894,
+                "kind": 14,
+                "name": "Minerals",
+                "image": "images/resources/minerals.png"
+            },
+            "canFetch": false
+        }
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "BASE": "https://www.simcompanies.com/api",
+    "V1": "v1",
+    "V2": "v2",
+    "V3": "v3",
+    "COMPANIES": "companies",
+    "BY-COMPANY": "companies-by-company/0"
+}

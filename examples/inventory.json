@@ -1,0 +1,436 @@
+[
+    {
+        "id": 152127446,
+        "amount": 100000,
+        "quality": 0,
+        "kind": {
+            "name": "Power",
+            "image": "images/resources/power.png",
+            "db_letter": 1,
+            "transportation": 0,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 24300.0
+        },
+        "materials": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 150980737,
+        "amount": 495467,
+        "quality": 1,
+        "kind": {
+            "name": "Power",
+            "image": "images/resources/power.png",
+            "db_letter": 1,
+            "transportation": 0,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 60378.89213267659,
+            "admin": 12311.573679732935,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 27820.893255459603
+        },
+        "materials": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 150551048,
+        "amount": 66441,
+        "quality": 0,
+        "kind": {
+            "name": "Water",
+            "image": "images/resources/water.png",
+            "db_letter": 2,
+            "transportation": 0,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 10533.982174296738,
+            "admin": 2163.643978200336,
+            "material1": 2538.4708559937876,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 4487.3652194591805
+        },
+        "materials": [
+            "Power",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 149816452,
+        "amount": 37767,
+        "quality": 0,
+        "kind": {
+            "name": "Transport",
+            "image": "images/resources/transport.png",
+            "db_letter": 13,
+            "transportation": 0,
+            "retailable": null,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 13218.550675653247
+        },
+        "materials": [
+            "Power",
+            "Diesel",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 151950772,
+        "amount": 4438,
+        "quality": 1,
+        "kind": {
+            "name": "Minerals",
+            "image": "images/resources/minerals.png",
+            "db_letter": 14,
+            "transportation": 1,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 349.14415267705056,
+            "admin": 71.73043292033374,
+            "material1": 703.0155862353461,
+            "material2": 46.64808474004842,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 32554.300027570946
+        },
+        "materials": [
+            "Power",
+            "Water",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 152092358,
+        "amount": 2031,
+        "quality": 1,
+        "kind": {
+            "name": "Chemicals",
+            "image": "images/resources/chemicals.png",
+            "db_letter": 17,
+            "transportation": 1,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 3729.469925480519,
+            "admin": 766.5622967417029,
+            "material1": 84.18873230403163,
+            "material2": 16143.373836760948,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 0.0
+        },
+        "materials": [
+            "Power",
+            "Minerals",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 151922388,
+        "amount": 8721,
+        "quality": 1,
+        "kind": {
+            "name": "Iron ore",
+            "image": "images/resources/iron-ore.png",
+            "db_letter": 42,
+            "transportation": 1,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 13857.514190182403,
+            "admin": 2847.4178931509314,
+            "material1": 15078.609000000002,
+            "material2": 1312.6857667927525,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 0.0
+        },
+        "materials": [
+            "Power",
+            "Water",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 151950770,
+        "amount": 707,
+        "quality": 2,
+        "kind": {
+            "name": "Steel",
+            "image": "images/resources/steel.png",
+            "db_letter": 43,
+            "transportation": 1,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 1520.344387000171,
+            "admin": 315.52251299982964,
+            "material1": 693.6434771451583,
+            "material2": 710.8039905211429,
+            "material3": 2500.0499951790375,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 0.0
+        },
+        "materials": [
+            "Power",
+            "Chemicals",
+            "Iron ore",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 149013474,
+        "amount": 1189,
+        "quality": 1,
+        "kind": {
+            "name": "Gold ore",
+            "image": "images/resources/gold-ore.png",
+            "db_letter": 68,
+            "transportation": 10,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 5839.257046804131,
+            "admin": 1197.1377663288129,
+            "material1": 19727.95476797417,
+            "material2": 708.9024331125889,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 0.0
+        },
+        "materials": [
+            "Power",
+            "Water",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 152124215,
+        "amount": 10,
+        "quality": 1,
+        "kind": {
+            "name": "Golden bars",
+            "image": "images/resources/golden-bars.png",
+            "db_letter": 69,
+            "transportation": 1000,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 47306.515716327296
+        },
+        "materials": [
+            "Power",
+            "Gold ore",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 151328979,
+        "amount": 196,
+        "quality": 0,
+        "kind": {
+            "name": "Reinforced concrete",
+            "image": "images/resources/reinforced-concrete.png",
+            "db_letter": 101,
+            "transportation": 10,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 34888.0
+        },
+        "materials": [
+            "Water",
+            "Steel",
+            "Sand",
+            "Cement",
+            ""
+        ]
+    },
+    {
+        "id": 151695211,
+        "amount": 2695,
+        "quality": 1,
+        "kind": {
+            "name": "Bricks",
+            "image": "images/resources/bricks.png",
+            "db_letter": 102,
+            "transportation": 1,
+            "retailable": true,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 6199.0
+        },
+        "materials": [
+            "Clay",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 150508518,
+        "amount": 784,
+        "quality": 1,
+        "kind": {
+            "name": "Planks",
+            "image": "images/resources/planks.png",
+            "db_letter": 108,
+            "transportation": 1,
+            "retailable": true,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 6735.571428571429
+        },
+        "materials": [
+            "Wood",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 151331038,
+        "amount": 8,
+        "quality": 0,
+        "kind": {
+            "name": "Construction units",
+            "image": "images/resources/construction-units.png",
+            "db_letter": 111,
+            "transportation": 0,
+            "retailable": false,
+            "research": false
+        },
+        "blocked": false,
+        "cost": {
+            "workers": 0.0,
+            "admin": 0.0,
+            "material1": 0.0,
+            "material2": 0.0,
+            "material3": 0.0,
+            "material4": 0.0,
+            "material5": 0.0,
+            "market": 20702.222222222223
+        },
+        "materials": [
+            "Diesel",
+            "Steel beams",
+            "Windows",
+            "Tools",
+            "Bulldozer"
+        ]
+    }
+]
