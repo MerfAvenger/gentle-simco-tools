@@ -1,6 +1,5 @@
 import ItemService from "./services/Item";
 import Item from "./model/Item";
-import GlobalItem from "./model/GlobalItem";
 
 export default class ItemManager {
     itemService: ItemService;

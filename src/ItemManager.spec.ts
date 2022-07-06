@@ -85,7 +85,6 @@ describe('ItemManager', () => {
         });
 
         describe('sortItemsToIdOrderedArray', () => {
-
             it('Should correctly sort items by their id for indexing', () => {
                 // Given
                 // World is initialised (beforeEach)
