@@ -1,10 +1,9 @@
 # The Production Elaborator
 A tool for visualising realtime updates to your profit margins in [Sim Companies](https://www.simcompanies.com/), a business simulation MMO.
 
-# Usage
+## Usage
 To be written when there is a front end..
 
-# Technicalaties
 ## Technologies
 Current:
 - **Typescript:** for the bulk of the code in the project, handling the model and queries to the Sim Companies API.
