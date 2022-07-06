@@ -1,21 +1,24 @@
-import Item from "./Item";
-import Building from "./industry/Building";
-import Industry from "./industry/Industry";
-import Industries from "./industry/Industries.json"
+import Item from "./model/Item";
+import Building from "./model/industry/Building";
+import Industry from "./model/industry/Industry";
+
+import BuildingService from "./services/Building";
+
+import Industries from "./model/industry/Industries.json";
 
 export default class World {
-    m_industries: [Industry];
-    m_buildings: [Building];
-    m_items: [Item];
+    m_industries: Industry[];
+    m_buildings: Building[];
+
+    m_buildingService: BuildingService;
 
     constructor() {
-        this.buildItems();
-        this.buildBuildings();
-        this.buildIndustries();
+        this.m_buildingService = new BuildingService();
     }
 
-    buildItems(): void {
-
+    init() {
+        this.buildBuildings();
+        this.buildIndustries();
     }
 
     buildBuildings(): void {

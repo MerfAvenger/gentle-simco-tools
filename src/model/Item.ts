@@ -1,15 +1,23 @@
 export default class Item {
-    m_materials: [Item];
-    m_sourceCost: number;
-    m_marketCost: number;
+    name: string;
+    id: number;
 
-    constructor(materials: [Item]) {
-        this.m_materials = materials;
-        this.m_sourceCost = 0;
-        this.m_marketCost = 0;
+    materials: [Item];
+
+    sourceCost: number;
+    marketCost: number;
+
+    constructor(name: string, id: number) {
+        this.name = name;
+        this.id = id;
+
+        this.materials = null;
+
+        this.sourceCost = 0;
+        this.marketCost = 0;
     }
 
-    get materials(): [Item] {
-        return this.m_materials
+    initMaterials(materials:[Item]): void {
+
     }
 }

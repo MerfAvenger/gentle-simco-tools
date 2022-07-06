@@ -6,7 +6,9 @@
       "target": "es6",
       "typeRoots": ["./node_modules/@types"],
       "module": "commonjs",
-      "lib": ["dom", "ES6"]
+      "lib": ["dom", "ES6"],
+      "esModuleInterop": true,
+      "resolveJsonModule": true
     },
     "include": [
       "./src/*"
